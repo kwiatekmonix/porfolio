@@ -1,4 +1,4 @@
-# Portfolio – Monika Grzegorz Kwiatkowski
+# Portfolio
 
 Portfolio wybranych prac graficznych oraz materiały prezentujące moje doświadczenie w grafice, DTP i e-commerce.
 
